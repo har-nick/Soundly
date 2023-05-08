@@ -1,0 +1,16 @@
+Soundly
+=======
+A no-frills Material You sleep sounds app.
+
+Current features:
+- Playlist functions (Copy, Delete, Rename)
+- Inclusive filtering
+- Per-sound volume controls
+- Slick animations
+- A UI that doesn't look terrible
+- Themed (temporary) app icon
+
+Planned features:
+- Settings integration
+- Playlist exporting
+- Feedback & Bug Reports
